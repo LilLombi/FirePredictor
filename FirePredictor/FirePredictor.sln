@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirePredictor", "FirePredictor.csproj", "{320412E6-BF4D-46E5-AABC-CFF8C4CC1BC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirePredictorTest", "..\FirePredictorTest\FirePredictorTest.csproj", "{6B83988F-1B0C-4CBC-991B-152E7011764D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FirePredictorSetUp", "..\FirePredictorSetUp\FirePredictorSetUp.vdproj", "{7975E96A-76D8-4EBE-BA79-4DBEE2D2AF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{320412E6-BF4D-46E5-AABC-CFF8C4CC1BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320412E6-BF4D-46E5-AABC-CFF8C4CC1BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320412E6-BF4D-46E5-AABC-CFF8C4CC1BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320412E6-BF4D-46E5-AABC-CFF8C4CC1BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B83988F-1B0C-4CBC-991B-152E7011764D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B83988F-1B0C-4CBC-991B-152E7011764D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B83988F-1B0C-4CBC-991B-152E7011764D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B83988F-1B0C-4CBC-991B-152E7011764D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7975E96A-76D8-4EBE-BA79-4DBEE2D2AF98}.Debug|Any CPU.ActiveCfg = Debug
+		{7975E96A-76D8-4EBE-BA79-4DBEE2D2AF98}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAEFA9A7-E312-46DE-A227-2BF776E1A736}
+	EndGlobalSection
+EndGlobal
